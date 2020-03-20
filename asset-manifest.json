@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mutual-aid-networks/static/css/main.835e218f.chunk.css",
-    "main.js": "/mutual-aid-networks/static/js/main.0ffa5d27.chunk.js",
-    "main.js.map": "/mutual-aid-networks/static/js/main.0ffa5d27.chunk.js.map",
+    "main.js": "/mutual-aid-networks/static/js/main.b4d7f899.chunk.js",
+    "main.js.map": "/mutual-aid-networks/static/js/main.b4d7f899.chunk.js.map",
     "runtime-main.js": "/mutual-aid-networks/static/js/runtime-main.94c42c3a.js",
     "runtime-main.js.map": "/mutual-aid-networks/static/js/runtime-main.94c42c3a.js.map",
     "static/css/2.4e3f0c44.chunk.css": "/mutual-aid-networks/static/css/2.4e3f0c44.chunk.css",
     "static/js/2.134ec4a7.chunk.js": "/mutual-aid-networks/static/js/2.134ec4a7.chunk.js",
     "static/js/2.134ec4a7.chunk.js.map": "/mutual-aid-networks/static/js/2.134ec4a7.chunk.js.map",
     "index.html": "/mutual-aid-networks/index.html",
-    "precache-manifest.41ee4a0f61664d8f6ebce1548faf9690.js": "/mutual-aid-networks/precache-manifest.41ee4a0f61664d8f6ebce1548faf9690.js",
+    "precache-manifest.a2c52903ad1acbc98c19dfbea6f8a483.js": "/mutual-aid-networks/precache-manifest.a2c52903ad1acbc98c19dfbea6f8a483.js",
     "service-worker.js": "/mutual-aid-networks/service-worker.js",
     "static/css/2.4e3f0c44.chunk.css.map": "/mutual-aid-networks/static/css/2.4e3f0c44.chunk.css.map",
     "static/css/main.835e218f.chunk.css.map": "/mutual-aid-networks/static/css/main.835e218f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.4e3f0c44.chunk.css",
     "static/js/2.134ec4a7.chunk.js",
     "static/css/main.835e218f.chunk.css",
-    "static/js/main.0ffa5d27.chunk.js"
+    "static/js/main.b4d7f899.chunk.js"
   ]
 }
