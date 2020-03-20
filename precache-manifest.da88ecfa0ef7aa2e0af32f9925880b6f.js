@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ad5c7e4eb2c5921a5a7c19a82902d22",
+    "revision": "7881d8807f8ec5c4e324519b5ff13879",
     "url": "/mutual-aid-networks/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutual-aid-networks/static/css/2.4e3f0c44.chunk.css"
   },
   {
-    "revision": "473335ea786a2298e300",
-    "url": "/mutual-aid-networks/static/css/main.835e218f.chunk.css"
+    "revision": "83d65b5f02cebb6647a0",
+    "url": "/mutual-aid-networks/static/css/main.e70beeea.chunk.css"
   },
   {
     "revision": "8c14b1397107079cec8e",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mutual-aid-networks/static/js/2.134ec4a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "473335ea786a2298e300",
+    "revision": "83d65b5f02cebb6647a0",
     "url": "/mutual-aid-networks/static/js/main.b4d7f899.chunk.js"
   },
   {
