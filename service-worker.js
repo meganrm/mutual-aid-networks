@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mutual-aid-networks/precache-manifest.11117d235b1b47c2c1cbe0d3ee8a13a0.js"
+  "/mutual-aid-networks/precache-manifest.7f8bcbeec7cc38956518446663d67e53.js"
 );
 
 self.addEventListener('message', (event) => {
